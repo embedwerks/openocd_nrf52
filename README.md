@@ -5,6 +5,8 @@ OpenOCD + patches for nRF52
 [https://embedwerks.tk/openocd.html](https://embedwerks.tk/openocd.html)
 
 # Setup
+Tested on Raspbian Stretch on a Raspberry Pi 3 with an ST-Link v2 purchased from Adafruit.com. nRF52832 was on the Adafruit Feather nRF52 dev board.
+
 1.  Install git, autoconf, and libusb-1.0.0-dev
 2.  Clone the st-link repository: git clone https://github.com/texane/stlink
 3.  cd stlink
