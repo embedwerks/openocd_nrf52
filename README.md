@@ -2,7 +2,7 @@
 OpenOCD + patches for nRF52
 
 # Download
-[https://embedwerks.tk/openocd.html](https://embedwerks.tk/openocd.html)
+[https://embedwerks.shravanj.com/openocd.html](https://embedwerks.shravanj.com/openocd.html)
 
 # Setup
 Tested on Raspbian Stretch on a Raspberry Pi 3 with an ST-Link v2 purchased from Adafruit.com. nRF52832 was on the Adafruit Feather nRF52 dev board.
